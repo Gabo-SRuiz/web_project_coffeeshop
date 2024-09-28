@@ -100,14 +100,14 @@
   margin: 0 0 0 80px;
 }
 
-.header__footer_paragraph {
+.header__paragraph {
   margin: 0;
   font-style: normal;
   font-weight: 500;
   color: #838383;
 }
 
-.header__footer_paragraph:last-of-type {
+.header__paragraph:last-of-type {
   margin-right: 80px;
 }
 
