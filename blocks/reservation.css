@@ -8,6 +8,11 @@
   background-position: center;
 }
 
+.reservation__form {
+  max-width: 385px;
+  margin: 0 auto 120px;
+}
+
 .reservation__title {
   text-align: center;
   margin: 0 auto 80px auto;
