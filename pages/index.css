@@ -176,6 +176,7 @@
 }
 
 .reservation__title {
+  text-align: center;
   margin: 100px auto 80px auto;
   font-style: normal;
   font-weight: 500;
